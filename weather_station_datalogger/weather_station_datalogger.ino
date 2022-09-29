@@ -6,10 +6,10 @@
  *  - provide stored datas through FTP server in LAN
  * 
  * It works with : 
- *  - Nodemcu 1.0
- *  - Temp sensor : SHT35
- *  - Clock : DS3231 (manage dayling saving time)
- *  - Solar panel, TP4056 charger, 18650 battery x3
+ *  - Nodemcu Amica module v2                       -> https://www.amazon.fr/gp/product/B06Y1LZLLY
+ *  - Temp sensor : SHT35-1M                        -> https://fr.aliexpress.com/item/1005004088598291.html
+ *  - Clock : DS3231 (manage dayling saving time)   -> https://www.amazon.fr/gp/product/B01H5NAFUY
+ *  - Solar panel, TP4056 charger, 18650 battery x3 -> https://fr.aliexpress.com/item/1005002265333958.html
  * 
  *     Downloads, docs, tutorials: https://sla99.fr
  *     Changelog : 
